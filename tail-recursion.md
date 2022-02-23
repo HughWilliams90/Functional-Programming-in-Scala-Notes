@@ -2,7 +2,7 @@
 
 [Back to main](index.md)
 
-A tail recursive function is simply a function whose last call is to itself
+A tail recursive function is simply a function whose last call is to itself.
 
 ```scala
 import scala.annotation.tailrec

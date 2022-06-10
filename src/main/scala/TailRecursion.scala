@@ -1,5 +1,5 @@
 
-object Something extends App {
+object TailRecursion extends App {
   import scala.annotation.tailrec
 
   def buildListWithElements(elements: Int): List[Int] = {

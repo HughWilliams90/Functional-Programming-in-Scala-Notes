@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62a8b12e-8db0-40fd-9df2-35b602dbaaae" name="Default Changelist" comment="" />
+    <list default="true" id="62a8b12e-8db0-40fd-9df2-35b602dbaaae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://scala-decompiled/package.decompiled.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -36,12 +41,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Practice" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PolymorphicFunctions">
+    <configuration name="PolymorphicFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphicFunctions" />
+      <module name="Functional-Programming-in-Scala-Notes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Something" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Something" />
+      <option name="MAIN_CLASS_NAME" value="TailRecursion" />
       <module name="Functional-Programming-in-Scala-Notes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolymorphicFunctions" />
         <item itemvalue="Application.Something" />
       </list>
     </recent_temporary>
@@ -68,7 +82,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/src/main/scala/Something.scala</url>
+          <url>file://$PROJECT_DIR$/src/main/scala/TailRecursion.scala</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

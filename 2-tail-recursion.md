@@ -5,7 +5,7 @@
 A tail recursive function is simply a function whose last call is to itself.
 
 when writing tail recursive methods first think of what return type you want in both my cases I want 
-a list of Int, your inner loop will have same return type as this, as you will want to add to an accumulator of some sort.
+a list of Int, your inner loop and out function will have same return type as this.
 
 then think of your exit case in buildListWithElements I only want to return when the counter hits zero as then I know I have the number of elements needed.
 I do the same thing on fibonacci but by using the length method on list I can say once the list is the same length as the specified number of elements return.
